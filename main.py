@@ -24,7 +24,7 @@ def main() -> None:
 
 
     tileset = tcod.tileset.load_tilesheet(
-        "16x16_sb_ascii.png", 16, 16, tcod.tileset.CHARMAP_CP437
+        "tilesets/16x16_sb_ascii.png", 16, 16, tcod.tileset.CHARMAP_CP437
     )
 
     #initializes eventhandler
