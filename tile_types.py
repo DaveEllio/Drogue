@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        Tile Types
+# Purpose:
+#
+# Author:      davidelliott
+#
+# Created:     03/11/2022
+# Copyright:   (c) davidelliott 2022
+# License:     BSD License
+#-------------------------------------------------------------------------------
 from typing import Tuple
 
 import numpy as np
