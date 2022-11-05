@@ -6,7 +6,7 @@
 #
 # Created:     03/11/2022
 # Copyright:   (c) davidelliott 2022
-# License:     BSD License
+# License:     
 #-------------------------------------------------------------------------------
 
 from typing import Tuple
